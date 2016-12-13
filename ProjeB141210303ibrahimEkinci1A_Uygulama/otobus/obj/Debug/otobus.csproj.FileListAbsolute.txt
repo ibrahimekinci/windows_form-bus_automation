@@ -1,0 +1,307 @@
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobus\otobus\bin\Debug\otobus.exe
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobus\otobus\bin\Debug\otobus.pdb
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobus\otobus\obj\Debug\otobus.csprojResolveAssemblyReference.cache
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobus\otobus\obj\Debug\otobus.frmBilet.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobus\otobus\obj\Debug\otobus.frmBiletListe.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobus\otobus\obj\Debug\otobus.frmCalisan.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobus\otobus\obj\Debug\otobus.frmCalisanListe.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobus\otobus\obj\Debug\otobus.frmGiris.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobus\otobus\obj\Debug\otobus.frmGise.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobus\otobus\obj\Debug\otobus.frmGuzergah.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobus\otobus\obj\Debug\otobus.frmGuzergahDetay.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobus\otobus\obj\Debug\otobus.frmGuzergahListe.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobus\otobus\obj\Debug\otobus.frmKullanici.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobus\otobus\obj\Debug\otobus.frmKullaniciListe.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobus\otobus\obj\Debug\otobus.frmMusteri.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobus\otobus\obj\Debug\otobus.frmMusteriListe.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobus\otobus\obj\Debug\otobus.Properties.Resources.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobus\otobus\obj\Debug\otobus.frmSefer.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobus\otobus\obj\Debug\otobus.frmYonetim.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobus\otobus\obj\Debug\otobus.csproj.GenerateResource.Cache
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobus\otobus\obj\Debug\otobus.exe
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobus\otobus\obj\Debug\otobus.pdb
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus\otobus\obj\Debug\otobus.exe
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus\otobus\obj\Debug\otobus.pdb
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus\otobus\bin\Debug\otobus.exe
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus\otobus\bin\Debug\otobus.pdb
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus\otobus\obj\Debug\otobus.csprojResolveAssemblyReference.cache
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus\otobus\obj\Debug\otobus.frmBilet.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus\otobus\obj\Debug\otobus.frmBiletListe.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus\otobus\obj\Debug\otobus.frmCalisan.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus\otobus\obj\Debug\otobus.frmCalisanListe.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus\otobus\obj\Debug\otobus.frmGiris.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus\otobus\obj\Debug\otobus.frmGise.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus\otobus\obj\Debug\otobus.frmGuzergah.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus\otobus\obj\Debug\otobus.frmGuzergahDetay.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus\otobus\obj\Debug\otobus.frmGuzergahListe.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus\otobus\obj\Debug\otobus.frmMusteri.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus\otobus\obj\Debug\otobus.frmMusteriListe.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus\otobus\obj\Debug\otobus.Properties.Resources.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus\otobus\obj\Debug\otobus.frmSefer.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus\otobus\obj\Debug\otobus.frmYonetim.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus\otobus\obj\Debug\otobus.csproj.GenerateResource.Cache
+C:\HIONe3_ibrahimEkinci\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus\otobus\obj\Debug\otobus.exe
+C:\HIONe3_ibrahimEkinci\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus\otobus\obj\Debug\otobus.pdb
+C:\HIONe3_ibrahimEkinci\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus\otobus\bin\Debug\otobus.exe
+C:\HIONe3_ibrahimEkinci\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus\otobus\bin\Debug\otobus.pdb
+C:\HIONe3_ibrahimEkinci\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus\otobus\obj\Debug\otobus.csprojResolveAssemblyReference.cache
+C:\HIONe3_ibrahimEkinci\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus\otobus\obj\Debug\otobus.frmBilet.resources
+C:\HIONe3_ibrahimEkinci\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus\otobus\obj\Debug\otobus.frmBiletListe.resources
+C:\HIONe3_ibrahimEkinci\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus\otobus\obj\Debug\otobus.frmCalisan.resources
+C:\HIONe3_ibrahimEkinci\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus\otobus\obj\Debug\otobus.frmCalisanListe.resources
+C:\HIONe3_ibrahimEkinci\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus\otobus\obj\Debug\otobus.frmGiris.resources
+C:\HIONe3_ibrahimEkinci\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus\otobus\obj\Debug\otobus.frmGise.resources
+C:\HIONe3_ibrahimEkinci\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus\otobus\obj\Debug\otobus.frmGuzergah.resources
+C:\HIONe3_ibrahimEkinci\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus\otobus\obj\Debug\otobus.frmGuzergahDetay.resources
+C:\HIONe3_ibrahimEkinci\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus\otobus\obj\Debug\otobus.frmGuzergahListe.resources
+C:\HIONe3_ibrahimEkinci\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus\otobus\obj\Debug\otobus.frmKullanici.resources
+C:\HIONe3_ibrahimEkinci\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus\otobus\obj\Debug\otobus.frmKullaniciListe.resources
+C:\HIONe3_ibrahimEkinci\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus\otobus\obj\Debug\otobus.frmMusteri.resources
+C:\HIONe3_ibrahimEkinci\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus\otobus\obj\Debug\otobus.frmMusteriListe.resources
+C:\HIONe3_ibrahimEkinci\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus\otobus\obj\Debug\otobus.Properties.Resources.resources
+C:\HIONe3_ibrahimEkinci\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus\otobus\obj\Debug\otobus.frmSefer.resources
+C:\HIONe3_ibrahimEkinci\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus\otobus\obj\Debug\otobus.frmYonetim.resources
+C:\HIONe3_ibrahimEkinci\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus\otobus\obj\Debug\otobus.csproj.GenerateResource.Cache
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus\otobus\obj\Debug\otobus.frmUyelik.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus\otobus\obj\Debug\otobus.frmAracListe.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus\otobus\obj\Debug\otobus.frmSeferListe.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus\otobus\obj\Debug\otobus.frmSifreIslemleri.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus - Kopya (2)\otobus\obj\Debug\otobus.exe
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus - Kopya (2)\otobus\obj\Debug\otobus.pdb
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus - Kopya (2)\otobus\obj\Debug\otobus.csprojResolveAssemblyReference.cache
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus - Kopya (2)\otobus\obj\Debug\otobus.frmGise.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus - Kopya (2)\otobus\obj\Debug\otobus.frmBilet.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus - Kopya (2)\otobus\obj\Debug\otobus.frmCalisan.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus - Kopya (2)\otobus\obj\Debug\otobus.frmCalisanListe.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus - Kopya (2)\otobus\obj\Debug\otobus.frmUyelik.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus - Kopya (2)\otobus\obj\Debug\otobus.frmGiris.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus - Kopya (2)\otobus\obj\Debug\otobus.frmSifreIslemleri.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus - Kopya (2)\otobus\obj\Debug\otobus.frmGuzergah.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus - Kopya (2)\otobus\obj\Debug\otobus.frmGuzergahDetay.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus - Kopya (2)\otobus\obj\Debug\otobus.frmGuzergahListe.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus - Kopya (2)\otobus\obj\Debug\otobus.frmMusteri.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus - Kopya (2)\otobus\obj\Debug\otobus.frmMusteriListe.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus - Kopya (2)\otobus\obj\Debug\otobus.Properties.Resources.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus - Kopya (2)\otobus\obj\Debug\otobus.frmYonetim.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus - Kopya (2)\otobus\obj\Debug\otobus.frmAracListe.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus - Kopya (2)\otobus\obj\Debug\otobus.frmSefer.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus - Kopya (2)\otobus\obj\Debug\otobus.frmSeferListe.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus - Kopya (2)\otobus\obj\Debug\otobus.csproj.GenerateResource.Cache
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus - Kopya (2)\otobus\bin\Debug\otobus.exe
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus - Kopya (2)\otobus\bin\Debug\otobus.pdb
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\otobus - Kopya (2)\otobus\obj\Debug\otobus.frmBiletListe.resources
+C:\Users\ibrahim\Desktop\otobus - Kopya (2)\otobus\obj\Debug\otobus.exe
+C:\Users\ibrahim\Desktop\otobus - Kopya (2)\otobus\obj\Debug\otobus.pdb
+C:\Users\ibrahim\Desktop\otobus - Kopya (2)\otobus\obj\Debug\otobus.csprojResolveAssemblyReference.cache
+C:\Users\ibrahim\Desktop\otobus - Kopya (2)\otobus\obj\Debug\otobus.frmGise.resources
+C:\Users\ibrahim\Desktop\otobus - Kopya (2)\otobus\obj\Debug\otobus.frmBilet.resources
+C:\Users\ibrahim\Desktop\otobus - Kopya (2)\otobus\obj\Debug\otobus.frmBiletListe.resources
+C:\Users\ibrahim\Desktop\otobus - Kopya (2)\otobus\obj\Debug\otobus.frmCalisan.resources
+C:\Users\ibrahim\Desktop\otobus - Kopya (2)\otobus\obj\Debug\otobus.frmCalisanListe.resources
+C:\Users\ibrahim\Desktop\otobus - Kopya (2)\otobus\obj\Debug\otobus.frmUyelik.resources
+C:\Users\ibrahim\Desktop\otobus - Kopya (2)\otobus\obj\Debug\otobus.frmGiris.resources
+C:\Users\ibrahim\Desktop\otobus - Kopya (2)\otobus\obj\Debug\otobus.frmSifreIslemleri.resources
+C:\Users\ibrahim\Desktop\otobus - Kopya (2)\otobus\obj\Debug\otobus.frmGuzergah.resources
+C:\Users\ibrahim\Desktop\otobus - Kopya (2)\otobus\obj\Debug\otobus.frmGuzergahDetay.resources
+C:\Users\ibrahim\Desktop\otobus - Kopya (2)\otobus\obj\Debug\otobus.frmGuzergahListe.resources
+C:\Users\ibrahim\Desktop\otobus - Kopya (2)\otobus\obj\Debug\otobus.frmMusteri.resources
+C:\Users\ibrahim\Desktop\otobus - Kopya (2)\otobus\obj\Debug\otobus.frmMusteriListe.resources
+C:\Users\ibrahim\Desktop\otobus - Kopya (2)\otobus\obj\Debug\otobus.Properties.Resources.resources
+C:\Users\ibrahim\Desktop\otobus - Kopya (2)\otobus\obj\Debug\otobus.frmYonetim.resources
+C:\Users\ibrahim\Desktop\otobus - Kopya (2)\otobus\obj\Debug\otobus.frmAracListe.resources
+C:\Users\ibrahim\Desktop\otobus - Kopya (2)\otobus\obj\Debug\otobus.frmSefer.resources
+C:\Users\ibrahim\Desktop\otobus - Kopya (2)\otobus\obj\Debug\otobus.frmSeferListe.resources
+C:\Users\ibrahim\Desktop\otobus - Kopya (2)\otobus\obj\Debug\otobus.csproj.GenerateResource.Cache
+C:\Users\ibrahim\Desktop\otobus - Kopya (2)\otobus\bin\Debug\otobus.exe
+C:\Users\ibrahim\Desktop\otobus - Kopya (2)\otobus\bin\Debug\otobus.pdb
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\22.1.2015-Otobus\otobus\obj\Debug\otobus.exe
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\22.1.2015-Otobus\otobus\obj\Debug\otobus.pdb
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\22.1.2015-Otobus\otobus\bin\Debug\otobus.exe
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\22.1.2015-Otobus\otobus\bin\Debug\otobus.pdb
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\22.1.2015-Otobus\otobus\obj\Debug\otobus.csprojResolveAssemblyReference.cache
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\22.1.2015-Otobus\otobus\obj\Debug\otobus.frmGise.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\22.1.2015-Otobus\otobus\obj\Debug\otobus.frmBilet.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\22.1.2015-Otobus\otobus\obj\Debug\otobus.frmBiletListe.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\22.1.2015-Otobus\otobus\obj\Debug\otobus.frmCalisan.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\22.1.2015-Otobus\otobus\obj\Debug\otobus.frmCalisanListe.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\22.1.2015-Otobus\otobus\obj\Debug\otobus.frmUyelik.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\22.1.2015-Otobus\otobus\obj\Debug\otobus.frmGiris.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\22.1.2015-Otobus\otobus\obj\Debug\otobus.frmSifreIslemleri.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\22.1.2015-Otobus\otobus\obj\Debug\otobus.frmGuzergah.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\22.1.2015-Otobus\otobus\obj\Debug\otobus.frmGuzergahDetay.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\22.1.2015-Otobus\otobus\obj\Debug\otobus.frmGuzergahListe.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\22.1.2015-Otobus\otobus\obj\Debug\otobus.frmMusteri.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\22.1.2015-Otobus\otobus\obj\Debug\otobus.frmMusteriListe.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\22.1.2015-Otobus\otobus\obj\Debug\otobus.Properties.Resources.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\22.1.2015-Otobus\otobus\obj\Debug\otobus.frmYonetim.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\22.1.2015-Otobus\otobus\obj\Debug\otobus.frmAracListe.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\22.1.2015-Otobus\otobus\obj\Debug\otobus.frmSefer.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\22.1.2015-Otobus\otobus\obj\Debug\otobus.frmSeferListe.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\otobusOtomasyon\22.1.2015-Otobus\otobus\obj\Debug\otobus.csproj.GenerateResource.Cache
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\projeler\otobusOtomasyon\22.1.2015-Otobus\otobus\obj\Debug\otobus.exe
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\projeler\otobusOtomasyon\22.1.2015-Otobus\otobus\obj\Debug\otobus.pdb
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\projeler\otobusOtomasyon\22.1.2015-Otobus\otobus\bin\Debug\otobus.exe
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\projeler\otobusOtomasyon\22.1.2015-Otobus\otobus\bin\Debug\otobus.pdb
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\projeler\otobusOtomasyon\22.1.2015-Otobus\otobus\obj\Debug\otobus.csprojResolveAssemblyReference.cache
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\projeler\otobusOtomasyon\22.1.2015-Otobus\otobus\obj\Debug\otobus.frmGise.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\projeler\otobusOtomasyon\22.1.2015-Otobus\otobus\obj\Debug\otobus.frmBilet.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\projeler\otobusOtomasyon\22.1.2015-Otobus\otobus\obj\Debug\otobus.frmBiletListe.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\projeler\otobusOtomasyon\22.1.2015-Otobus\otobus\obj\Debug\otobus.frmCalisan.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\projeler\otobusOtomasyon\22.1.2015-Otobus\otobus\obj\Debug\otobus.frmCalisanListe.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\projeler\otobusOtomasyon\22.1.2015-Otobus\otobus\obj\Debug\otobus.frmUyelik.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\projeler\otobusOtomasyon\22.1.2015-Otobus\otobus\obj\Debug\otobus.frmGiris.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\projeler\otobusOtomasyon\22.1.2015-Otobus\otobus\obj\Debug\otobus.frmSifreIslemleri.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\projeler\otobusOtomasyon\22.1.2015-Otobus\otobus\obj\Debug\otobus.frmGuzergah.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\projeler\otobusOtomasyon\22.1.2015-Otobus\otobus\obj\Debug\otobus.frmGuzergahDetay.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\projeler\otobusOtomasyon\22.1.2015-Otobus\otobus\obj\Debug\otobus.frmGuzergahListe.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\projeler\otobusOtomasyon\22.1.2015-Otobus\otobus\obj\Debug\otobus.frmMusteri.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\projeler\otobusOtomasyon\22.1.2015-Otobus\otobus\obj\Debug\otobus.frmMusteriListe.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\projeler\otobusOtomasyon\22.1.2015-Otobus\otobus\obj\Debug\otobus.Properties.Resources.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\projeler\otobusOtomasyon\22.1.2015-Otobus\otobus\obj\Debug\otobus.frmYonetim.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\projeler\otobusOtomasyon\22.1.2015-Otobus\otobus\obj\Debug\otobus.frmAracListe.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\projeler\otobusOtomasyon\22.1.2015-Otobus\otobus\obj\Debug\otobus.frmSefer.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\projeler\otobusOtomasyon\22.1.2015-Otobus\otobus\obj\Debug\otobus.frmSeferListe.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\projeler\otobusOtomasyon\22.1.2015-Otobus\otobus\obj\Debug\otobus.csproj.GenerateResource.Cache
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\projeler\otobusOtomasyon\22.1.2015-Otobus\otobus\obj\Debug\otobus.otobusTipi_0.resources
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\projeler\windowsOtobusOtomasyon\22.1.2015-Otobus\otobus\obj\Debug\otobus.exe
+D:\_Sites\WissenAkademie\Wissen_Projeler_36ibrahimekinci\projeler\windowsOtobusOtomasyon\22.1.2015-Otobus\otobus\obj\Debug\otobus.pdb
+D:\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.exe
+D:\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.pdb
+D:\proje\frm_22.1.2015-Otobus\otobus\bin\Debug\otobus.exe
+D:\proje\frm_22.1.2015-Otobus\otobus\bin\Debug\otobus.pdb
+D:\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.csprojResolveAssemblyReference.cache
+D:\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.frmGise.resources
+D:\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.frmBilet.resources
+D:\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.frmBiletListe.resources
+D:\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.frmCalisan.resources
+D:\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.frmCalisanListe.resources
+D:\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.frmUyelik.resources
+D:\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.frmGiris.resources
+D:\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.frmSifreIslemleri.resources
+D:\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.frmGuzergah.resources
+D:\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.frmGuzergahDetay.resources
+D:\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.frmGuzergahListe.resources
+D:\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.frmMusteri.resources
+D:\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.frmMusteriListe.resources
+D:\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.otobusTipi_0.resources
+D:\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.Properties.Resources.resources
+D:\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.frmYonetim.resources
+D:\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.frmAracListe.resources
+D:\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.frmSefer.resources
+D:\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.frmSeferListe.resources
+D:\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.csproj.GenerateResource.Cache
+C:\Users\ibrahim Ekinci\Desktop\project\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.exe
+C:\Users\ibrahim Ekinci\Desktop\project\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.pdb
+C:\Users\ibrahim Ekinci\Desktop\project\proje\frm_22.1.2015-Otobus\otobus\bin\Debug\otobus.exe
+C:\Users\ibrahim Ekinci\Desktop\project\proje\frm_22.1.2015-Otobus\otobus\bin\Debug\otobus.pdb
+C:\Users\ibrahim Ekinci\Desktop\project\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.csprojResolveAssemblyReference.cache
+C:\Users\ibrahim Ekinci\Desktop\project\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.frmGise.resources
+C:\Users\ibrahim Ekinci\Desktop\project\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.frmBilet.resources
+C:\Users\ibrahim Ekinci\Desktop\project\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.frmBiletListe.resources
+C:\Users\ibrahim Ekinci\Desktop\project\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.frmCalisan.resources
+C:\Users\ibrahim Ekinci\Desktop\project\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.frmCalisanListe.resources
+C:\Users\ibrahim Ekinci\Desktop\project\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.frmUyelik.resources
+C:\Users\ibrahim Ekinci\Desktop\project\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.frmGiris.resources
+C:\Users\ibrahim Ekinci\Desktop\project\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.frmSifreIslemleri.resources
+C:\Users\ibrahim Ekinci\Desktop\project\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.frmGuzergah.resources
+C:\Users\ibrahim Ekinci\Desktop\project\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.frmGuzergahDetay.resources
+C:\Users\ibrahim Ekinci\Desktop\project\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.frmGuzergahListe.resources
+C:\Users\ibrahim Ekinci\Desktop\project\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.frmMusteri.resources
+C:\Users\ibrahim Ekinci\Desktop\project\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.frmMusteriListe.resources
+C:\Users\ibrahim Ekinci\Desktop\project\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.otobusTipi_0.resources
+C:\Users\ibrahim Ekinci\Desktop\project\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.Properties.Resources.resources
+C:\Users\ibrahim Ekinci\Desktop\project\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.frmYonetim.resources
+C:\Users\ibrahim Ekinci\Desktop\project\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.frmAracListe.resources
+C:\Users\ibrahim Ekinci\Desktop\project\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.frmSefer.resources
+C:\Users\ibrahim Ekinci\Desktop\project\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.frmSeferListe.resources
+C:\Users\ibrahim Ekinci\Desktop\project\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.csproj.GenerateResource.Cache
+D:\Drive_B141210303\Jobs\project\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.exe
+D:\Drive_B141210303\Jobs\project\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.pdb
+D:\Drive_B141210303\Jobs\project\proje\frm_22.1.2015-Otobus\otobus\bin\Debug\otobus.exe
+D:\Drive_B141210303\Jobs\project\proje\frm_22.1.2015-Otobus\otobus\bin\Debug\otobus.pdb
+D:\Drive_B141210303\Jobs\project\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.csprojResolveAssemblyReference.cache
+D:\Drive_B141210303\Jobs\project\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.frmGise.resources
+D:\Drive_B141210303\Jobs\project\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.frmBilet.resources
+D:\Drive_B141210303\Jobs\project\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.frmBiletListe.resources
+D:\Drive_B141210303\Jobs\project\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.frmCalisan.resources
+D:\Drive_B141210303\Jobs\project\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.frmCalisanListe.resources
+D:\Drive_B141210303\Jobs\project\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.frmUyelik.resources
+D:\Drive_B141210303\Jobs\project\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.frmGiris.resources
+D:\Drive_B141210303\Jobs\project\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.frmSifreIslemleri.resources
+D:\Drive_B141210303\Jobs\project\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.frmGuzergah.resources
+D:\Drive_B141210303\Jobs\project\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.frmGuzergahDetay.resources
+D:\Drive_B141210303\Jobs\project\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.frmGuzergahListe.resources
+D:\Drive_B141210303\Jobs\project\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.frmMusteri.resources
+D:\Drive_B141210303\Jobs\project\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.frmMusteriListe.resources
+D:\Drive_B141210303\Jobs\project\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.otobusTipi_0.resources
+D:\Drive_B141210303\Jobs\project\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.Properties.Resources.resources
+D:\Drive_B141210303\Jobs\project\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.frmYonetim.resources
+D:\Drive_B141210303\Jobs\project\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.frmAracListe.resources
+D:\Drive_B141210303\Jobs\project\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.frmSefer.resources
+D:\Drive_B141210303\Jobs\project\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.frmSeferListe.resources
+D:\Drive_B141210303\Jobs\project\proje\frm_22.1.2015-Otobus\otobus\obj\Debug\otobus.csproj.GenerateResource.Cache
+C:\Users\ibrahim Ekinci\Desktop\otobus-otomasyon\otobus\obj\Debug\otobus.exe
+C:\Users\ibrahim Ekinci\Desktop\otobus-otomasyon\otobus\obj\Debug\otobus.pdb
+C:\Users\ibrahim Ekinci\Desktop\otobus-otomasyon\otobus\obj\Debug\otobus.csprojResolveAssemblyReference.cache
+C:\Users\ibrahim Ekinci\Desktop\otobus-otomasyon\otobus\obj\Debug\otobus.frmCalisan.resources
+C:\Users\ibrahim Ekinci\Desktop\otobus-otomasyon\otobus\obj\Debug\otobus.frmCalisanListe.resources
+C:\Users\ibrahim Ekinci\Desktop\otobus-otomasyon\otobus\obj\Debug\otobus.frmUyelik.resources
+C:\Users\ibrahim Ekinci\Desktop\otobus-otomasyon\otobus\obj\Debug\otobus.frmGiris.resources
+C:\Users\ibrahim Ekinci\Desktop\otobus-otomasyon\otobus\obj\Debug\otobus.frmGuzergah.resources
+C:\Users\ibrahim Ekinci\Desktop\otobus-otomasyon\otobus\obj\Debug\otobus.frmGuzergahDetay.resources
+C:\Users\ibrahim Ekinci\Desktop\otobus-otomasyon\otobus\obj\Debug\otobus.frmGuzergahListe.resources
+C:\Users\ibrahim Ekinci\Desktop\otobus-otomasyon\otobus\obj\Debug\otobus.frmMusteri.resources
+C:\Users\ibrahim Ekinci\Desktop\otobus-otomasyon\otobus\obj\Debug\otobus.frmMusteriListe.resources
+C:\Users\ibrahim Ekinci\Desktop\otobus-otomasyon\otobus\obj\Debug\otobus.otobusTipi_0.resources
+C:\Users\ibrahim Ekinci\Desktop\otobus-otomasyon\otobus\obj\Debug\otobus.Properties.Resources.resources
+C:\Users\ibrahim Ekinci\Desktop\otobus-otomasyon\otobus\obj\Debug\otobus.frmYonetim.resources
+C:\Users\ibrahim Ekinci\Desktop\otobus-otomasyon\otobus\obj\Debug\otobus.frmAracListe.resources
+C:\Users\ibrahim Ekinci\Desktop\otobus-otomasyon\otobus\obj\Debug\otobus.frmSefer.resources
+C:\Users\ibrahim Ekinci\Desktop\otobus-otomasyon\otobus\obj\Debug\otobus.frmSeferListe.resources
+C:\Users\ibrahim Ekinci\Desktop\otobus-otomasyon\otobus\obj\Debug\otobus.csproj.GenerateResource.Cache
+C:\Users\ibrahim Ekinci\Desktop\otobus-otomasyon\otobus\bin\Debug\otobus.exe
+C:\Users\ibrahim Ekinci\Desktop\otobus-otomasyon\otobus\bin\Debug\otobus.pdb
+D:\Drive_B141210303\Academic\Sakarya_Univercity\5\VTYS\PROJE\otobus-otomasyon\otobus\obj\Debug\otobus.exe
+D:\Drive_B141210303\Academic\Sakarya_Univercity\5\VTYS\PROJE\otobus-otomasyon\otobus\obj\Debug\otobus.pdb
+D:\Drive_B141210303\Academic\Sakarya_Univercity\5\VTYS\PROJE\otobus-otomasyon\otobus\bin\Debug\otobus.exe
+D:\Drive_B141210303\Academic\Sakarya_Univercity\5\VTYS\PROJE\otobus-otomasyon\otobus\bin\Debug\otobus.pdb
+D:\Drive_B141210303\Academic\Sakarya_Univercity\5\VTYS\PROJE\otobus-otomasyon\otobus\obj\Debug\otobus.csprojResolveAssemblyReference.cache
+D:\Drive_B141210303\Academic\Sakarya_Univercity\5\VTYS\PROJE\otobus-otomasyon\otobus\obj\Debug\otobus.frmCalisan.resources
+D:\Drive_B141210303\Academic\Sakarya_Univercity\5\VTYS\PROJE\otobus-otomasyon\otobus\obj\Debug\otobus.frmCalisanListe.resources
+D:\Drive_B141210303\Academic\Sakarya_Univercity\5\VTYS\PROJE\otobus-otomasyon\otobus\obj\Debug\otobus.frmUyelik.resources
+D:\Drive_B141210303\Academic\Sakarya_Univercity\5\VTYS\PROJE\otobus-otomasyon\otobus\obj\Debug\otobus.frmGiris.resources
+D:\Drive_B141210303\Academic\Sakarya_Univercity\5\VTYS\PROJE\otobus-otomasyon\otobus\obj\Debug\otobus.frmGuzergah.resources
+D:\Drive_B141210303\Academic\Sakarya_Univercity\5\VTYS\PROJE\otobus-otomasyon\otobus\obj\Debug\otobus.frmGuzergahDetay.resources
+D:\Drive_B141210303\Academic\Sakarya_Univercity\5\VTYS\PROJE\otobus-otomasyon\otobus\obj\Debug\otobus.frmGuzergahListe.resources
+D:\Drive_B141210303\Academic\Sakarya_Univercity\5\VTYS\PROJE\otobus-otomasyon\otobus\obj\Debug\otobus.frmMusteri.resources
+D:\Drive_B141210303\Academic\Sakarya_Univercity\5\VTYS\PROJE\otobus-otomasyon\otobus\obj\Debug\otobus.frmMusteriListe.resources
+D:\Drive_B141210303\Academic\Sakarya_Univercity\5\VTYS\PROJE\otobus-otomasyon\otobus\obj\Debug\otobus.otobusTipi_0.resources
+D:\Drive_B141210303\Academic\Sakarya_Univercity\5\VTYS\PROJE\otobus-otomasyon\otobus\obj\Debug\otobus.Properties.Resources.resources
+D:\Drive_B141210303\Academic\Sakarya_Univercity\5\VTYS\PROJE\otobus-otomasyon\otobus\obj\Debug\otobus.frmYonetim.resources
+D:\Drive_B141210303\Academic\Sakarya_Univercity\5\VTYS\PROJE\otobus-otomasyon\otobus\obj\Debug\otobus.frmAracListe.resources
+D:\Drive_B141210303\Academic\Sakarya_Univercity\5\VTYS\PROJE\otobus-otomasyon\otobus\obj\Debug\otobus.frmSefer.resources
+D:\Drive_B141210303\Academic\Sakarya_Univercity\5\VTYS\PROJE\otobus-otomasyon\otobus\obj\Debug\otobus.frmSeferListe.resources
+D:\Drive_B141210303\Academic\Sakarya_Univercity\5\VTYS\PROJE\otobus-otomasyon\otobus\obj\Debug\otobus.csproj.GenerateResource.Cache
+D:\Drive_B141210303\Academic\Sakarya_Univercity\5\VTYS\PROJE\Uygulama\otobus\obj\Debug\otobus.exe
+D:\Drive_B141210303\Academic\Sakarya_Univercity\5\VTYS\PROJE\Uygulama\otobus\obj\Debug\otobus.pdb
+D:\Drive_B141210303\Academic\Sakarya_Univercity\5\VTYS\PROJE\Uygulama\otobus\bin\Debug\otobus.exe
+D:\Drive_B141210303\Academic\Sakarya_Univercity\5\VTYS\PROJE\Uygulama\otobus\bin\Debug\otobus.pdb
+D:\Drive_B141210303\Academic\Sakarya_Univercity\5\VTYS\PROJE\Uygulama\otobus\obj\Debug\otobus.csprojResolveAssemblyReference.cache
+D:\Drive_B141210303\Academic\Sakarya_Univercity\5\VTYS\PROJE\Uygulama\otobus\obj\Debug\otobus.frmCalisan.resources
+D:\Drive_B141210303\Academic\Sakarya_Univercity\5\VTYS\PROJE\Uygulama\otobus\obj\Debug\otobus.frmCalisanListe.resources
+D:\Drive_B141210303\Academic\Sakarya_Univercity\5\VTYS\PROJE\Uygulama\otobus\obj\Debug\otobus.frmUyelik.resources
+D:\Drive_B141210303\Academic\Sakarya_Univercity\5\VTYS\PROJE\Uygulama\otobus\obj\Debug\otobus.frmGiris.resources
+D:\Drive_B141210303\Academic\Sakarya_Univercity\5\VTYS\PROJE\Uygulama\otobus\obj\Debug\otobus.frmGuzergah.resources
+D:\Drive_B141210303\Academic\Sakarya_Univercity\5\VTYS\PROJE\Uygulama\otobus\obj\Debug\otobus.frmGuzergahDetay.resources
+D:\Drive_B141210303\Academic\Sakarya_Univercity\5\VTYS\PROJE\Uygulama\otobus\obj\Debug\otobus.frmGuzergahListe.resources
+D:\Drive_B141210303\Academic\Sakarya_Univercity\5\VTYS\PROJE\Uygulama\otobus\obj\Debug\otobus.frmMusteri.resources
+D:\Drive_B141210303\Academic\Sakarya_Univercity\5\VTYS\PROJE\Uygulama\otobus\obj\Debug\otobus.frmMusteriListe.resources
+D:\Drive_B141210303\Academic\Sakarya_Univercity\5\VTYS\PROJE\Uygulama\otobus\obj\Debug\otobus.otobusTipi_0.resources
+D:\Drive_B141210303\Academic\Sakarya_Univercity\5\VTYS\PROJE\Uygulama\otobus\obj\Debug\otobus.Properties.Resources.resources
+D:\Drive_B141210303\Academic\Sakarya_Univercity\5\VTYS\PROJE\Uygulama\otobus\obj\Debug\otobus.frmYonetim.resources
+D:\Drive_B141210303\Academic\Sakarya_Univercity\5\VTYS\PROJE\Uygulama\otobus\obj\Debug\otobus.frmAracListe.resources
+D:\Drive_B141210303\Academic\Sakarya_Univercity\5\VTYS\PROJE\Uygulama\otobus\obj\Debug\otobus.frmSefer.resources
+D:\Drive_B141210303\Academic\Sakarya_Univercity\5\VTYS\PROJE\Uygulama\otobus\obj\Debug\otobus.frmSeferListe.resources
+D:\Drive_B141210303\Academic\Sakarya_Univercity\5\VTYS\PROJE\Uygulama\otobus\obj\Debug\otobus.csproj.GenerateResource.Cache
+D:\Drive_B141210303\Academic\Sakarya_Univercity\5\VTYS\PROJE\ProjeB141210303ibrahimEkinci1A\ProjeB141210303ibrahimEkinci1A_Uygulama\otobus\obj\Debug\otobus.exe
+D:\Drive_B141210303\Academic\Sakarya_Univercity\5\VTYS\PROJE\ProjeB141210303ibrahimEkinci1A\ProjeB141210303ibrahimEkinci1A_Uygulama\otobus\obj\Debug\otobus.pdb

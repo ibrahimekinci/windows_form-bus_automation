@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9F7AA3E6-6451-4A58-B57B-C049C9D1B86D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>otobus</RootNamespace>
+    <AssemblyName>otobus</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="calisan\cCalisan.cs" />
+    <Compile Include="calisan\cPozisyon.cs" />
+    <Compile Include="calisan\cSube.cs" />
+    <Compile Include="calisan\frmCalisan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="calisan\frmCalisan.Designer.cs">
+      <DependentUpon>frmCalisan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="calisan\frmCalisanListe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="calisan\frmCalisanListe.Designer.cs">
+      <DependentUpon>frmCalisanListe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="calisan\frmUyelik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="calisan\frmUyelik.Designer.cs">
+      <DependentUpon>frmUyelik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="class\cAdres.cs" />
+    <Compile Include="class\cGenel.cs" />
+    <Compile Include="class\cStil.cs" />
+    <Compile Include="class\CustomProfessionalColors.cs" />
+    <Compile Include="giris\cBeniHatirla.cs" />
+    <Compile Include="giris\frmGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="giris\frmGiris.Designer.cs">
+      <DependentUpon>frmGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="guzergah\cGuzergah.cs" />
+    <Compile Include="guzergah\frmGuzergah.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="guzergah\frmGuzergah.Designer.cs">
+      <DependentUpon>frmGuzergah.cs</DependentUpon>
+    </Compile>
+    <Compile Include="guzergah\frmGuzergahDetay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="guzergah\frmGuzergahDetay.Designer.cs">
+      <DependentUpon>frmGuzergahDetay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="guzergah\frmGuzergahListe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="guzergah\frmGuzergahListe.Designer.cs">
+      <DependentUpon>frmGuzergahListe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="musteri\cMusteri.cs" />
+    <Compile Include="musteri\frmMusteri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="musteri\frmMusteri.Designer.cs">
+      <DependentUpon>frmMusteri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="musteri\frmMusteriListe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="musteri\frmMusteriListe.Designer.cs">
+      <DependentUpon>frmMusteriListe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="otobuss\otobuss.cs" />
+    <Compile Include="otobuss\otobusTipi_0.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="otobuss\otobusTipi_0.Designer.cs">
+      <DependentUpon>otobusTipi_0.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="AnaEkran\frmYonetim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AnaEkran\frmYonetim.Designer.cs">
+      <DependentUpon>frmYonetim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="sefer\cArac.cs" />
+    <Compile Include="sefer\cSefer.cs" />
+    <Compile Include="sefer\frmAracListe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sefer\frmAracListe.Designer.cs">
+      <DependentUpon>frmAracListe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="sefer\frmSefer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sefer\frmSefer.Designer.cs">
+      <DependentUpon>frmSefer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="sefer\frmSeferListe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sefer\frmSeferListe.Designer.cs">
+      <DependentUpon>frmSeferListe.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="calisan\frmCalisan.resx">
+      <DependentUpon>frmCalisan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="calisan\frmCalisanListe.resx">
+      <DependentUpon>frmCalisanListe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="calisan\frmUyelik.resx">
+      <DependentUpon>frmUyelik.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="giris\frmGiris.resx">
+      <DependentUpon>frmGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="guzergah\frmGuzergah.resx">
+      <DependentUpon>frmGuzergah.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="guzergah\frmGuzergahDetay.resx">
+      <DependentUpon>frmGuzergahDetay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="guzergah\frmGuzergahListe.resx">
+      <DependentUpon>frmGuzergahListe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="musteri\frmMusteri.resx">
+      <DependentUpon>frmMusteri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="musteri\frmMusteriListe.resx">
+      <DependentUpon>frmMusteriListe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="otobuss\otobusTipi_0.resx">
+      <DependentUpon>otobusTipi_0.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="AnaEkran\frmYonetim.resx">
+      <DependentUpon>frmYonetim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sefer\frmAracListe.resx">
+      <DependentUpon>frmAracListe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sefer\frmSefer.resx">
+      <DependentUpon>frmSefer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sefer\frmSeferListe.resx">
+      <DependentUpon>frmSeferListe.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="resim\cinsiyet\bay.png" />
+    <Content Include="resim\cinsiyet\bayan.png" />
+    <Content Include="resim\cinsiyet\bos.png" />
+    <Content Include="resim\otobus-tipi\Lux-Bus-Fleet-48.png" />
+    <Content Include="resim\otobus-tipi\Lux-Bus-Fleet-56.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
